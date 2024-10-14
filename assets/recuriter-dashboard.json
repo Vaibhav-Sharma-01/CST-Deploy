@@ -1,0 +1,103 @@
+[
+    {
+      "CandidateName": "John Doe",
+      "JobTitle": "Software Engineer",
+      "Country": "USA",
+      "HireType": "Salaried",
+      "AccessStartDate": "2023-05-01",
+      "AccessEndDate": "2024-05-01",
+      "Recruiter": "Alice Smith",
+      "Delegate": "Mark Lee"
+    },
+    {
+      "CandidateName": "Jane Smith",
+      "JobTitle": "Data Analyst",
+      "Country": "Canada",
+      "HireType": "Hourly",
+      "AccessStartDate": "2023-06-15",
+      "AccessEndDate": "2024-06-15",
+      "Recruiter": "Bob Johnson",
+      "Delegate": "Emma Davis"
+    },
+    {
+      "CandidateName": "Mike Brown",
+      "JobTitle": "Project Manager",
+      "Country": "UK",
+      "HireType": "Hourly",
+      "AccessStartDate": "2023-07-10",
+      "AccessEndDate": "2024-07-10",
+      "Recruiter": "Clara White",
+      "Delegate": "David Thompson"
+    },
+    {
+      "CandidateName": "Emily Clark",
+      "JobTitle": "UX Designer",
+      "Country": "Australia",
+      "HireType": "Salaried",
+      "AccessStartDate": "2023-08-20",
+      "AccessEndDate": "2024-08-20",
+      "Recruiter": "Diana Roberts",
+      "Delegate": "Chris Evans"
+    },
+    {
+      "CandidateName": "Chris Wilson",
+      "JobTitle": "Network Engineer",
+      "Country": "Germany",
+      "HireType": "Salaried",
+      "AccessStartDate": "2023-09-01",
+      "AccessEndDate": "2024-09-01",
+      "Recruiter": "Sarah Miller",
+      "Delegate": "John Green"
+    },
+    {
+      "CandidateName": "Laura Harris",
+      "JobTitle": "QA Engineer",
+      "Country": "India",
+      "HireType": "Hourly",
+      "AccessStartDate": "2023-10-05",
+      "AccessEndDate": "2024-10-05",
+      "Recruiter": "Emily Adams",
+      "Delegate": "Jason King"
+    },
+    {
+      "CandidateName": "Daniel Lee",
+      "JobTitle": "DevOps Engineer",
+      "Country": "Japan",
+      "HireType": "Hourly",
+      "AccessStartDate": "2023-11-12",
+      "AccessEndDate": "2024-11-12",
+      "Recruiter": "Karen Young",
+      "Delegate": "Michael Turner"
+    },
+    {
+      "CandidateName": "Sophia Martinez",
+      "JobTitle": "Business Analyst",
+      "Country": "Spain",
+      "HireType": "Salaried",
+      "AccessStartDate": "2023-12-01",
+      "AccessEndDate": "2024-12-01",
+      "Recruiter": "Paul Rivera",
+      "Delegate": "Nina Carter"
+    },
+    {
+      "CandidateName": "Ethan Scott",
+      "JobTitle": "System Administrator",
+      "Country": "France",
+      "HireType": "Hourly",
+      "AccessStartDate": "2024-01-15",
+      "AccessEndDate": "2025-01-15",
+      "Recruiter": "Olivia Foster",
+      "Delegate": "Sophie Brooks"
+    },
+    {
+      "CandidateName": "Isabella Taylor",
+      "JobTitle": "Cloud Architect",
+      "Country": "Brazil",
+      "HireType": "salaried",
+      "AccessStartDate": "2024-02-20",
+      "AccessEndDate": "2025-02-20",
+      "Recruiter": "Mason Diaz",
+      "Delegate": "Lucas Wright"
+    }
+  ]
+  
